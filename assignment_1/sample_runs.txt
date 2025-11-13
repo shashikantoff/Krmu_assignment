@@ -1,0 +1,28 @@
+SAMPLE RUN 1:
+----------------
+Enter total number of students in class: 5
+How many students are present today? 3
+Enter name of student 1: Riya Sharma
+Enter check-in time (e.g., 09:15 AM): 09:00 AM
+Enter name of student 2: Arjun Singh
+Enter check-in time (e.g., 09:15 AM): 09:10 AM
+Enter name of student 3: Meena Verma
+Enter check-in time (e.g., 09:15 AM): 09:15 AM
+
+Attendance Summary
+Student Name        Check-in Time
+------------------------------------------
+Riya Sharma         09:00 AM
+Arjun Singh         09:10 AM
+Meena Verma         09:15 AM
+------------------------------------------
+Total Students Present: 3
+Total Students Absent: 2
+
+Do you want to save this record to file? (yes/no): yes
+Attendance saved to attendance_log.txt
+
+----------------
+
+SAMPLE RUN 2:
+Similar process with different student names.
