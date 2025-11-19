@@ -1,0 +1,8 @@
+Run 1:
+Added Alice and Rahul → Displayed → Exported JSON
+
+Run 2:
+Searched Rahul → Updated phone → Displayed
+
+Run 3:
+Deleted Alice → Displayed → Loaded from JSON

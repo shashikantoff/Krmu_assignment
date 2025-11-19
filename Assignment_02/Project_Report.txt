@@ -1,0 +1,14 @@
+Smart Contact Book - Project Report
+Student: Shashi Kant
+
+1. Problem Statement
+Managing contacts manually causes errors and data redundancy.
+
+2. Implementation Details
+- Python 3
+- CSV and JSON
+- OOP Design with SmartContactBook class
+- Exception Handling and Logging
+
+3. Conclusion
+A clean, modular and file-handling based contact manager.
